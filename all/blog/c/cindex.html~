@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+    		<meta name="author" content="">
+    		<link rel="icon" href="../../../images/favicon.ico">
+		<title>ZLIB:C_INDEX</title>
+		<link href="../../../boots/bootstrap.min.css" rel="stylesheet">
+		<link href="../../../boots/dashboard.css" rel="stylesheet">
+		<link href="../../../boots/offcanvas.css" rel="stylesheet">
+		<!-- Just for debugging purposes. Don't actually copy this line! -->
+		<!--[if lt IE 9]><script src="../../../js/ie8-responsive-file-warning.js"></script><![endif]-->
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body style="background-color: #66FF66">
+		<div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse">
+				<!--	<ul class="nav navbar-nav">-->	
+					<ul id="nav"><!--top links -->
+						<li><a href="../../../index.html">ZLIB</a></li>
+						<li><a href="../../../main/about.html">About</a></li>
+						<li><a href="../../../main/book.html">Books</a></li>
+						<li><a href="../../../main/blog.html">Blog</a></li>
+						<li><a href="../../../main/college.html">College</a></li>
+						<li><a href="../../../main/gallery.html">Gallery</a></li>
+						<li><a href="../../../main/guidance.html">Guidance</a></li>
+						<li><a href="../../../main/history.html">History</a></li>
+						<li><a href="../../../main/learn.html">Learn</a></li>
+						<li><a href="../../../main/lecture.html">Lecture</a></li>
+						<li><a href="../../../main/map.html">SiteMap</a></li>
+						<li><a href="../../../main/signin.html">SignIn</a></li>
+						<div id="lavalamp"></div>
+					</ul>
+				</div><!-- /.nav-collapse -->
+			</div><!-- /.container -->
+		</div><!-- /.navbar --><!--top line end/////////////////////////////////////////-->
+		<div class="container-fluid">
+			<div class="row">
+        			<div class="col-sm-3 col-md-2 sidebar"><!--left side link-->
+          				<ul class="nav nav-sidebar">
+            					<li class="active"><a href="#">About</a></li>
+            					<li><a href="intro.html">Intro</a></li>
+            					<li><a href="#">Defination</a></li>
+            					<li><a href="#">Decelaration</a></li>
+          				</ul>
+        			</div>
+        			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"><!--page-->
+          				<h1 class="page-header">
+						<center style="color:green">About C</center>
+					</h1>
+	  				<p style="font-size:20px">Hello,<br>__This section for only C language</p>
+          				<div class="row placeholders"><!--link on page-->
+            				<button onclick="slideIn('box1');" class="col-xs-6 col-sm-3 placeholder" style="background-color:green;border-radius: 8.8em;width: 200px; height: 200px;font-size:20px;color:violet;margin:6px">Introduction
+              						<span class="text-muted" style="font-size:20px">introduction of c</span>
+					</button>
+
+
+
+
+					</div>
+				</div>
+<!---------------------------Box1 content----------------------------->
+				<div id="box1"><h2 style="color:blue"><center>Introduction of c</center></h2><!--one line  130 character-->
+				<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+<p>1111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223333333333</p>
+					<center><button onclick="slideOut('box1');">Back</button></center>
+
+				</div>
+			</div>
+		</div>
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="../../../js/bootstrap.min.js"></script>
+    <script src="../../../js/docs.min.js"></script>
+    <script src="../../../js/mya.js"></script>
+  </body>
+</html>

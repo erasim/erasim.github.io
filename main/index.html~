@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="description" content="">
+			<meta name="author" content="">
+			<link rel="icon" href="../images/favicon.ico">
+			<title>ZLIB:HOME</title><!-- Bootstrap core CSS -->
+			<link href="../boots/bootstrap.min.css" rel="stylesheet"><!-- Custom styles for this template -->
+			<link href="../boots/offcanvas.css" rel="stylesheet">
+			<!-- Just for debugging purposes. Don't actually copy this line! -->
+			<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+			<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+			<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+			<![endif]-->
+		</head>
+		<body style="background-color: black">
+			<div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse">
+					<!--	<ul class="nav navbar-nav">
+						-->	
+						<ul id="nav">
+							<li class="active"><a href="index.html">ZLIB</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="book.html">Books</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="college.html">College</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="guidance.html">Guidance</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="learn.html">Learn</a></li>
+							<li><a href="lecture.html">Lecture</a></li>
+							<li><a href="map.html">SiteMap</a></li>
+							<li><a href="signin.html">SignIn</a></li>
+							<div id="lavalamp"></div>
+						</ul>
+					</div><!-- /.nav-collapse -->
+				</div><!-- /.container -->
+			</div><!-- /.navbar --><!--top line end/////////////////////////////////////////-->
+			<div class="container">
+				<div class="row row-offcanvas row-offcanvas-right">
+					<div class="col-xs-12 col-sm-9">
+						<p class="pull-right visible-xs">
+							<button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+						</p>
+						<div class="jumbotron">
+							<h1>WELCOME TO ZLIB</h1>
+							<h6>&raquo;A Think Of Indian Future</h6>
+							<p>That is a place where you gain more than your thought. Here we try to BoostUp your knowlege.<br>Please, Give us the most valuable time of your life and see the output.<br>THANKS FOR YOUR..... </p>
+						</div>
+						<div class="row">
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>About</h2>
+								<p>Our main AIM to launch this site is that each and every one has the knowledge of each and every field. </br>Here we provide all about knowledge and we are trying to do best....</p>
+								<p><a class="btn btn-lg btn-primary" href="about.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Books</h2>
+								<p>In this section we are provides the books in two catageres.<br>1:In  this section, you are able to read the books. 2:In this section, we are present books in MP3 formet....</p>
+								<p><a class="btn btn-lg btn-primary" href="book.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Blog</h2>
+								<p>This is the blog of founder of this site. Critism and suggestion adout the site shall always be welcomed<br>Your suggestion is most valuable for us, So please give suggestion....</p>
+								<p><a class="btn btn-lg btn-primary" href="blog.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>College</h2>
+								<p>This section is providing you for adding your college here. After adding your college we are provided you a section that is for you and your collegemetes, and discuss problems and we provide solution...</p>
+								<p><a class="btn btn-lg btn-primary" href="college.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Gallery</h2>
+								<p>This is the most important section of this site. We provide the basic profile of our advisers who will help you in problem.<br>They all are specialist in their fields. And some student, they are master in their subjects...</p>
+								<p><a class="btn btn-lg btn-primary" href="gallery.html" role="button">More &raquo;</a></p>
+							</div>
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Guidance</h2>
+								<p>This section give you the direct intraction of us. Here you ask the problem and the solution is given by the team by mail or call or sms or any other medium of communication.<br>This is a social medium...</p>
+								<p><a class="btn btn-lg btn-primary" href="guidance.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>History</h2>
+								<p>In this section we provide you the history of this univers, world. We are also provide the history of earth and all country of this earth.<br>This portion provide you the basic knowledge of everything.</p>
+								<p><a class="btn btn-lg btn-primary" href="history.html" role="button">More &raquo;</a></p>
+							</div>
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Learn</h2>
+								<p>In this section, we provide you the learning in two types <br>One-> According to your Standard<br>Two->Acoording to our course<br>Here we provide a chain of courses in any field..</p>
+								<p><a class="btn btn-lg btn-primary" href="learn.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Lecture</h2>
+								<p>This section give you the lecture of all subject in video formte. Her we give you the video lecture according to the books and subject  and your intrest.<br>The lecture is given by the respected teachers or specilist..</p>
+								<p><a class="btn btn-lg btn-primary" href="lecture.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+							<div class="col-6 col-sm-6 col-lg-4">
+								<h2>Sign In</h2>
+								<p>If you are a member of this site then please login.<a href="signup.html"><b>Sign In</b></a><br> If you are come here 1st time then please create your id <a href="signup.html"><b>Sign Up</b></a><br> Thanks for comming here.<br>From the team of zlib</p>
+								<p><a class="btn btn-lg btn-primary" href="signup.html" role="button">More &raquo;</a></p>
+							</div><!--/span-->
+						</div><!--/row-->
+					</div><!--/span-->
+<!--------------------------------------------------------------------------------------------------------------------------------------------->
+					<div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+						<div class="list-group">
+							<a href="index.html" class="list-group-item active">ZLIB</a>
+							<a href="about.html" class="list-group-item">About</a>
+							<a href="book.html" class="list-group-item">Books</a>
+							<a href="blog.html" class="list-group-item">Blog</a>
+							<a href="college.html" class="list-group-item">College</a>
+							<a href="gallery.html" class="list-group-item">Gallery</a>
+							<a href="guidance.html" class="list-group-item">Guidance</a>
+							<a href="history.html" class="list-group-item">History</a>
+							<a href="learn.html" class="list-group-item">Learn</a>
+							<a href="lecture.html" class="list-group-item">Lecture</a>
+							<a href="signin.html" class="list-group-item">SignIn</a>
+						</div>
+					</div><!--/span-->
+				</div><!--/row-->
+				<hr>
+				<footer>
+					<p>&copy; Atif Hasnain Zaidi</p>
+				</footer>
+				
+			</div><!--/.container--><!-- Bootstrap core JavaScript================================================== --><!-- Placed at the end of the document so the pages load faster -->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+			<script src="../js/bootstrap.min.js"></script>
+			<script src="../js/offcanvas.js"></script>
+		</body>
+	</html>
